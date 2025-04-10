@@ -11,4 +11,9 @@
 9. index.html 만들기
 10. 복사한 코드를 붙여넣고
 11. 커밋
-12. 
+12. 웹사이트로 만드는 방버
+13. <img width="657" alt="image" src="https://github.com/user-attachments/assets/7e426702-e075-40ea-ad2a-7c2033ce04d8" />
+
+14. 잠시후 리플래쉬하면 주소가 생성 된다.
+15. 
+
